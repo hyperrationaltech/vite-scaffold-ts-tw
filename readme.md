@@ -1,6 +1,6 @@
 # Getting Started with Vite Tailwind Scaffolding
 
-This is an extension of the official React Typescript template for [Vite](https://vitejs.dev).
+This is an extension of the official [React Typescript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for [Vite](https://vitejs.dev).
 
 This template includes:
 
@@ -10,7 +10,7 @@ This template includes:
  * FontAwesome (because icons)
  * Valtio (because state)
 
-To use this template, run `degit githubrepo/...` when creating a new app.
+To use this template, run `degit this-repo/...` when creating a new app.
 
 ## Available Scripts
 
