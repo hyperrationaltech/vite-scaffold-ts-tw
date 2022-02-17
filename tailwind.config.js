@@ -1,16 +1,5 @@
 module.exports = {
-  mode: "jit",
-  darkMode: "media",
-  future: {
-    // removeDeprecatedGapUtilities: true,
-    // purgeLayersByDefault: true,
-    // defaultLineHeights: true,
-    // standardFontWeights: true
-  },
-  purge: {
-    mode: "all",
     content: ["./src/**/*.ts", "./src/**/*.tsx"],
-  },
   theme: {
     screens: {
       sm: "640px",

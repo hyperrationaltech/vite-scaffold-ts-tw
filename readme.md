@@ -1,6 +1,6 @@
 # Getting Started with Vite Tailwind Scaffolding
 
-This is an extension of the official React Typescript template for [Vite](...).
+This is an extension of the official React Typescript template for [Vite](https://vitejs.dev).
 
 This template includes:
 
